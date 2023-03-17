@@ -6,7 +6,7 @@ A personalised config for Left 4 Dead 2.
 `-novid -noforcemaccel -noforcemparms -high -useallavailablecores +mat_motion_blur_percent_of_screen_max 0`
 
 ### Mod Links
-* [Steam Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2755803413)
+* [Steam Mods Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2755803413)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
