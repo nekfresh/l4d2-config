@@ -3,7 +3,7 @@
 A personalised config for Left 4 Dead 2.
 
 ### Launch Options
-`-novid -noforcemaccel -noforcemparms -high -useallavailablecores +mat_motion_blur_percent_of_screen_max 0`
+`-refresh 144 -novid -nojoy -high -lv -useallavailablecores -16bpp -nocrashdialog -fullscreen -noforcemaccel -noforcemparms -useallavailablecores +mat_motion_blur_percent_of_screen_max 0`
 
 ### Steam Workshop Collection
 * [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2755803413)
